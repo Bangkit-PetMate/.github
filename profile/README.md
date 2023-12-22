@@ -1,4 +1,11 @@
-
+<h1 align="center">
+  <br>
+  <a href="#"><img src="app/src/main/res/drawable/logo_pet.png" alt="Markdownify" width="200"></a>
+  <br>
+  PetMate
+  <br>
+  “Your Pet Matchmaker”
+</h1>
 ## Bangkit-PetMate
 The documentation of <b>PetMate</b> application in Bangkit Capstone Project 2023
 

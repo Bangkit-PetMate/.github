@@ -1,4 +1,4 @@
-![profile](images/profile.jpg)
+![profile]([images/profile.jpg](https://avatars.githubusercontent.com/u/154588881?s=200&v=4))
 
 ## Bangkit-PetMate
 The documentation of <b>PetMate</b> application in Bangkit Capstone Project 2023

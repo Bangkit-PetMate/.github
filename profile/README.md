@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="#"><img src="app/src/main/res/drawable/logo_pet.png" alt="Markdownify" width="200"></a>
+  <a href="#"><img src="https://github.com/Bangkit-PetMate/PetMate/blob/main/app/src/main/res/drawable/logo_pet.png" alt="Markdownify" width="200"></a>
   <br>
   PetMate
   <br>

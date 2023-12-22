@@ -1,5 +1,4 @@
 
-![Nama Gambar]([https://github.com/Bangkit-PetMate#](https://github.com/organizations/Bangkit-PetMate/settings/profile))
 ## Bangkit-PetMate
 The documentation of <b>PetMate</b> application in Bangkit Capstone Project 2023
 
